@@ -19,7 +19,7 @@ Improves `ng-switch-when` to handle expressions instead of magic values. Useful 
 
 ## Installation
 
-1. Run `bower install ngSwitchWhenExpr`
+1. Run `bower install ngswitchwhenexpr`
 
 2. Import the script in your `index.html` after `angular.js`
 
