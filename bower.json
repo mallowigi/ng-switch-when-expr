@@ -1,0 +1,21 @@
+{
+  "name": "ng-switch-when-expr",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mallowigi/ng-switch-when-expr",
+  "authors": [
+    "Elior \"mallowigi\" Boukhobza <elior.boukhobza@gmail.com>"
+  ],
+  "description": "Directive that extends ngSwitchWhen with support for expressions. Useful to deal with constants and enums.",
+  "main": "ngSwitchWhenExpr.js",
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
