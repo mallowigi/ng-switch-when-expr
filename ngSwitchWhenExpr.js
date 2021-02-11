@@ -4,7 +4,7 @@
 angular.module('mallowigi.ngUtils')
   .config(function ($provide) {
     'use strict';
-    $provide.decorator('ngSwitchWhenExprDirective', function ($delegate) {
+    $provide.decorator('ngSwitchWhenDirective', function ($delegate) {
 
       angular.forEach($delegate, function (ngSwitchWhen) {
 
